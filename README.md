@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey there, I'm Bishal Acharya!</h1>
 <p align="center">
   <a href="https://www.linkedin.com/in/bishal-acharya-0934b2306/">LinkedIn</a> •
-  <a href="mailto:bishal.acharya0422@gmail.com">Email</a>
+  <a href="bishal.acharya0422@gmail.com">Email</a>
 </p>
 
 ---
